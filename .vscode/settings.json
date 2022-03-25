@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sys.h": "c",
+        "usart.h": "c",
+        "freertos.h": "c",
+        "stm32f10x.h": "c"
+    }
+}
